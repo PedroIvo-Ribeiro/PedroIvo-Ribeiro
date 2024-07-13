@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PedroIvo-Ribeiro
+- 👀 I’m interested in Learning and improve my skills;
+- 🌱 I’m currently learning Front End Plataform.
